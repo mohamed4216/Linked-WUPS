@@ -1,0 +1,12 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id00000335849">
+    <j.0:full>Qazaly, Kazakhstan</j.0:full>
+    <j.0:city>Qazaly</j.0:city>
+    <j.0:country> Kazakhstan</j.0:country>
+    <j.0:longitude>62.107498</j.0:longitude>
+    <j.0:latitude>45.762779</j.0:latitude>
+    <j.0:ZipCode>00000335849</j.0:ZipCode>
+  </rdf:Description>
+</rdf:RDF>

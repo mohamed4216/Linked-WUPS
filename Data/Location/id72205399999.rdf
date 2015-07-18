@@ -1,0 +1,14 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id72205399999">
+    <j.0:full>Uams, Arkansas</j.0:full>
+    <j.0:city>Uams</j.0:city>
+    <j.0:country> Arkansas</j.0:country>
+    <j.0:longitude>-92.3396</j.0:longitude>
+    <j.0:latitude>34.747868</j.0:latitude>
+    <j.0:ZipCode>72205399999</j.0:ZipCode>
+    <owl:sameAs>http://de.dbpedia.org/resource/UAMS</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

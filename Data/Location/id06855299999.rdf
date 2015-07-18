@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id06855299999">
+    <j.0:full>East Norwalk, Connecticut</j.0:full>
+    <j.0:city>East Norwalk</j.0:city>
+    <j.0:country> Connecticut</j.0:country>
+    <j.0:longitude>-73.398781</j.0:longitude>
+    <j.0:latitude>41.09922</j.0:latitude>
+    <j.0:ZipCode>06855299999</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node154382177</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/East_Norwalk</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

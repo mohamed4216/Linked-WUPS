@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id000003WFAVV">
+    <j.0:full>Vanderbijlpark, South Africa</j.0:full>
+    <j.0:city>Vanderbijlpark</j.0:city>
+    <j.0:country> South Africa</j.0:country>
+    <j.0:longitude>27.777222</j.0:longitude>
+    <j.0:latitude>-26.690556</j.0:latitude>
+    <j.0:ZipCode>000003WFAVV</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node262722353</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Vanderbijlpark</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

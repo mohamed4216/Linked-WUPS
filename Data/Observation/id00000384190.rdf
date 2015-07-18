@@ -1,0 +1,83 @@
+<rdf:RDF
+
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+
+    xmlns:Prec="http://localhost/Ontology/Precipitation.owl#"
+
+	xmlns:Wea="http://localhost/Ontology/Weather.owl#"
+
+	xmlns:Temp="http://localhost/Ontology/Temperature.owl#"
+
+	xmlns:Wind="http://localhost/Ontology/Wind.owl#"
+
+	xmlns:Loc="http://localhost/Ontology/Location.owl#"
+
+	xmlns:Time="http://localhost/Ontology/Time.owl#"
+
+	xmlns:Yester="http://localhost/Ontology/Yesterday.owl#"
+	
+	xmlns:Astro="http://localhost/Ontology/Astronomy.owl#"
+	> 
+
+  <rdf:Description rdf:about="http://localhost/Resource/Observation/id00000384190">
+<Loc:full>Babahoyo, Ecuador</Loc:full>
+<Loc:city>http://localhost/Resource/Location/id00000384190</Loc:city>
+<Loc:ZipCode>00000384190</Loc:ZipCode>
+<Time:Hour>00</Time:Hour>
+<Time:Minute>01</Time:Minute>
+<Time:Day>18</Time:Day>
+<Time:Month>7</Time:Month>
+<Time:Year>2015</Time:Year>
+<Loc:Elevation>7.00000000</Loc:Elevation>
+<Loc:latitude>-1.81666696</Loc:latitude>
+<Loc:longitude>-79.51667023</Loc:longitude>
+<Temp:temperature_string>75 F (24 C)</Temp:temperature_string>
+<Temp:temp_f>75</Temp:temp_f>
+<Temp:temp_c>24</Temp:temp_c>
+<Temp:high>28</Temp:high>
+<Temp:low>22</Temp:low>
+<Temp:heat_index>NA</Temp:heat_index>
+<Temp:heat_index_f>NA</Temp:heat_index_f>
+<Temp:heat_index_c>NA</Temp:heat_index_c>
+<Temp:windchill>NA</Temp:windchill>
+<Temp:windchill_f>NA</Temp:windchill_f>
+<Temp:windchill_c>NA</Temp:windchill_c>
+<Temp:dewpoint>70 F (21 C)</Temp:dewpoint>
+<Temp:dewpoint_f>70</Temp:dewpoint_f>
+<Temp:dewpoint_c>21</Temp:dewpoint_c>
+<Temp:feelslike>75 F (24 C)</Temp:feelslike>
+<Temp:feelslike_c>24</Temp:feelslike_c>
+<Wind:wind_degrees>230</Wind:wind_degrees>
+<Wind:wind_dir>SW</Wind:wind_dir>
+<Wind:wind_mph>9</Wind:wind_mph>
+<Wind:wind_kph>15</Wind:wind_kph>
+<Wind:wind_gust_mph>N/A</Wind:wind_gust_mph>
+<Wind:wind_gust_kph>N/A</Wind:wind_gust_kph>
+<Wind:pressure_mb>1011</Wind:pressure_mb>
+<Wind:pressure_in>29.86</Wind:pressure_in>
+<Wind:pressure_trend>0</Wind:pressure_trend>
+<Wind:relative_humidity>83%</Wind:relative_humidity>
+<Prec:prob_of_precip>80</Prec:prob_of_precip>
+<Prec:rainfall>10</Prec:rainfall>
+<Prec:snow_depth>N/A</Prec:snow_depth>
+<Prec:precip_today_metric>0.0</Prec:precip_today_metric>
+<Prec:precip_today_in>0.00</Prec:precip_today_in>
+<Prec:precip_1hr_in>-9999.00</Prec:precip_1hr_in>
+<Prec:precip_1hr_metric>--</Prec:precip_1hr_metric>
+<Wea:visibility_km>10.0</Wea:visibility_km>
+<Wea:visibility_mi>6.2</Wea:visibility_mi>
+<Wea:icon>mostlycloudy</Wea:icon>
+<Wea:icon_url>http://icons.wxug.com/i/c/k/nt_mostlycloudy.gif</Wea:icon_url>
+<Yester:temp>N/A</Yester:temp>
+<Yester:max>N/A</Yester:max>
+<Yester:min>N/A</Yester:min>
+<Yester:rain>N/A</Yester:rain>
+<Astro:sunrise_hour>6</Astro:sunrise_hour>
+<Astro:sunrise_minute>23</Astro:sunrise_minute>
+<Astro:sunset_hour>18</Astro:sunset_hour>
+<Astro:sunset_minute>25</Astro:sunset_minute>
+<Astro:moon_phase>Waxing Crescent</Astro:moon_phase>
+<Astro:visible>5</Astro:visible>
+</rdf:Description></rdf:RDF>

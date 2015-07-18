@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id45011699999">
+    <j.0:full>Fairfield, Ohio</j.0:full>
+    <j.0:city>Fairfield</j.0:city>
+    <j.0:country> Ohio</j.0:country>
+    <j.0:longitude>-84.509735</j.0:longitude>
+    <j.0:latitude>39.405075</j.0:latitude>
+    <j.0:ZipCode>45011699999</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/way161390789</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Fairfield</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id00000331987">
+    <j.0:full>Zaschita-Nakhodka, Russia</j.0:full>
+    <j.0:city>Zaschita-Nakhodka</j.0:city>
+    <j.0:country> Russia</j.0:country>
+    <j.0:longitude>132.89473</j.0:longitude>
+    <j.0:latitude>42.833332</j.0:latitude>
+    <j.0:ZipCode>00000331987</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node1311531344</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Nakhodka</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

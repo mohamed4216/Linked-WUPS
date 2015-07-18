@@ -1,0 +1,83 @@
+<rdf:RDF
+
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+
+    xmlns:Prec="http://localhost/Ontology/Precipitation.owl#"
+
+	xmlns:Wea="http://localhost/Ontology/Weather.owl#"
+
+	xmlns:Temp="http://localhost/Ontology/Temperature.owl#"
+
+	xmlns:Wind="http://localhost/Ontology/Wind.owl#"
+
+	xmlns:Loc="http://localhost/Ontology/Location.owl#"
+
+	xmlns:Time="http://localhost/Ontology/Time.owl#"
+
+	xmlns:Yester="http://localhost/Ontology/Yesterday.owl#"
+	
+	xmlns:Astro="http://localhost/Ontology/Astronomy.owl#"
+	> 
+
+  <rdf:Description rdf:about="http://localhost/Resource/Observation/id00000117295">
+<Loc:full>Dalaman, Turkey</Loc:full>
+<Loc:city>http://localhost/Resource/Location/id00000117295</Loc:city>
+<Loc:ZipCode>00000117295</Loc:ZipCode>
+<Time:Hour>00</Time:Hour>
+<Time:Minute>07</Time:Minute>
+<Time:Day>18</Time:Day>
+<Time:Month>7</Time:Month>
+<Time:Year>2015</Time:Year>
+<Loc:Elevation>2.00000000</Loc:Elevation>
+<Loc:latitude>36.70000076</Loc:latitude>
+<Loc:longitude>28.78000069</Loc:longitude>
+<Temp:temperature_string>88 F (31 C)</Temp:temperature_string>
+<Temp:temp_f>88</Temp:temp_f>
+<Temp:temp_c>31</Temp:temp_c>
+<Temp:high>33</Temp:high>
+<Temp:low>22</Temp:low>
+<Temp:heat_index>88 F (31 C)</Temp:heat_index>
+<Temp:heat_index_f>88</Temp:heat_index_f>
+<Temp:heat_index_c>31</Temp:heat_index_c>
+<Temp:windchill>NA</Temp:windchill>
+<Temp:windchill_f>NA</Temp:windchill_f>
+<Temp:windchill_c>NA</Temp:windchill_c>
+<Temp:dewpoint>61 F (16 C)</Temp:dewpoint>
+<Temp:dewpoint_f>61</Temp:dewpoint_f>
+<Temp:dewpoint_c>16</Temp:dewpoint_c>
+<Temp:feelslike>88 F (31 C)</Temp:feelslike>
+<Temp:feelslike_c>31</Temp:feelslike_c>
+<Wind:wind_degrees>190</Wind:wind_degrees>
+<Wind:wind_dir>South</Wind:wind_dir>
+<Wind:wind_mph>9</Wind:wind_mph>
+<Wind:wind_kph>15</Wind:wind_kph>
+<Wind:wind_gust_mph>N/A</Wind:wind_gust_mph>
+<Wind:wind_gust_kph>N/A</Wind:wind_gust_kph>
+<Wind:pressure_mb>1007</Wind:pressure_mb>
+<Wind:pressure_in>29.74</Wind:pressure_in>
+<Wind:pressure_trend>0</Wind:pressure_trend>
+<Wind:relative_humidity>40%</Wind:relative_humidity>
+<Prec:prob_of_precip>N/A</Prec:prob_of_precip>
+<Prec:rainfall>N/A</Prec:rainfall>
+<Prec:snow_depth>N/A</Prec:snow_depth>
+<Prec:precip_today_metric>0.0</Prec:precip_today_metric>
+<Prec:precip_today_in>0.00</Prec:precip_today_in>
+<Prec:precip_1hr_in>-9999.00</Prec:precip_1hr_in>
+<Prec:precip_1hr_metric>--</Prec:precip_1hr_metric>
+<Wea:visibility_km>N/A</Wea:visibility_km>
+<Wea:visibility_mi>N/A</Wea:visibility_mi>
+<Wea:icon>clear</Wea:icon>
+<Wea:icon_url>http://icons.wxug.com/i/c/k/clear.gif</Wea:icon_url>
+<Yester:temp>N/A</Yester:temp>
+<Yester:max>N/A</Yester:max>
+<Yester:min>N/A</Yester:min>
+<Yester:rain>N/A</Yester:rain>
+<Astro:sunrise_hour>5</Astro:sunrise_hour>
+<Astro:sunrise_minute>59</Astro:sunrise_minute>
+<Astro:sunset_hour>20</Astro:sunset_hour>
+<Astro:sunset_minute>22</Astro:sunset_minute>
+<Astro:moon_phase>Waxing Crescent</Astro:moon_phase>
+<Astro:visible>5</Astro:visible>
+</rdf:Description></rdf:RDF>

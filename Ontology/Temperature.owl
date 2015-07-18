@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns="http://localhost/Ontology/Temperature.owl#"
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="http://localhost/Ontology/Temperature.owl">
+  <owl:Ontology rdf:about=""/>
+  <owl:Class rdf:ID="Temperature"/>
+  <owl:DatatypeProperty rdf:ID="temp">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="temp_f">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="temp_c">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="heat_index">
+    <rdfs:domain rdf:resource="#Temperature"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="heat_index_f">
+    <rdfs:domain rdf:resource="#Temperature"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="heat_index_c">
+    <rdfs:domain rdf:resource="#Temperature"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+   <owl:DatatypeProperty rdf:ID="windchill">
+    <rdfs:domain rdf:resource="#Temperature"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="windchill_f">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="windchill_c">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="dewpoint">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="dewpoint_f">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="dewpoint_c">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="feelslike">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="feelslike_f">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:ID="feelslike_c">
+    <rdfs:domain rdf:resource="#Temperature"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:ID="high">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+<owl:DatatypeProperty rdf:ID="low">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#Temperature"/>
+  </owl:DatatypeProperty>
+  </rdf:RDF> 
+
+
+<!-- Created with Protege (with OWL Plugin 3.5, Build 663)  http://protege.stanford.edu -->

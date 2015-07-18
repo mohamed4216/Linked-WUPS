@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id32099199999">
+    <j.0:full>Jacksonville, Florida</j.0:full>
+    <j.0:city>Jacksonville</j.0:city>
+    <j.0:country> Florida</j.0:country>
+    <j.0:longitude>-81.771103</j.0:longitude>
+    <j.0:latitude>30.335501</j.0:latitude>
+    <j.0:ZipCode>32099199999</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node157611033</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Jacksonville_(Florida)</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

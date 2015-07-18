@@ -1,0 +1,35 @@
+# Protect the htaccess file
+<Files .htaccess>
+order deny,allow
+deny from all
+allow from 127.0.0.1
+</Files>
+
+<Files ListOfCities.txt>
+order deny,allow
+deny from all
+allow from 127.0.0.1
+</Files>
+
+<Files History.php>
+order deny,allow
+deny from all
+allow from 127.0.0.1
+</Files>
+
+<Files Process.php>
+order deny,allow
+deny from all
+allow from 127.0.0.1
+</Files>
+
+<Files run.sh>
+order deny,allow
+deny from all
+allow from 127.0.0.1
+</Files>
+<Files run2.sh>
+order deny,allow
+deny from all
+allow from 127.0.0.1
+</Files>

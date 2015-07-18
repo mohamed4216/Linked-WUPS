@@ -1,0 +1,1 @@
+<?php if ( stristr($_SERVER["HTTP_ACCEPT"],"application/rdf+xml") ) { header('Location:http://localhost/Data/History/id502504999994'); exit();} else { header('Location:http://localhost/Page/History/id502504999994'); exit();}?>

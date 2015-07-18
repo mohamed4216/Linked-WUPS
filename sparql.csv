@@ -1,0 +1,26 @@
+p,o,s
+http://localhost/Resource/Location/id00000703139,http://localhost/Ontology/Location.owl#latitude,55.766666
+http://localhost/Resource/Location/id00000157399,http://localhost/Ontology/Location.owl#full,"Macheng, China"
+http://localhost/Resource/Location/id00000167335,http://www.w3.org/2002/07/owl#sameAs,http://linkedgeodata.org/triplify/node335077559
+http://localhost/Resource/Location/id02540199999,http://www.w3.org/2002/07/owl#sameAs,http://de.dbpedia.org/resource/Falmouth
+http://localhost/Resource/Location/id00000150527,http://www.w3.org/2002/07/owl#sameAs,http://de.dbpedia.org/resource/Hailar
+http://localhost/Resource/Location/id000004WUBBY,http://localhost/Ontology/Location.owl#full,"Qax, Azerbaijan"
+http://localhost/Resource/Location/id22193199999,http://www.w3.org/2002/07/owl#sameAs,http://de.dbpedia.org/resource/Dale_City
+http://localhost/Resource/Location/id94601199999,http://localhost/Ontology/Location.owl#ZipCode,94601199999
+http://localhost/Resource/Location/id00000103964,http://localhost/Ontology/Location.owl#latitude,53.279999
+http://localhost/Resource/Location/id00000459663,http://localhost/Ontology/Location.owl#full,"Yangchun, China"
+http://localhost/Resource/Location/id000009WMPHO,http://localhost/Ontology/Location.owl#longitude,-79.783333
+http://localhost/Resource/Location/id0000014916080,http://localhost/Ontology/Location.owl#full,"Paderno Dugnano, Italy"
+http://localhost/Resource/Location/id00000147817,http://localhost/Ontology/Location.owl#city,Nagasaki
+http://localhost/Resource/Location/id00000506375,http://localhost/Ontology/Location.owl#longitude,5.633333
+http://localhost/Resource/Location/id000004WUBBY,http://www.w3.org/2002/07/owl#sameAs,http://linkedgeodata.org/triplify/way280463930
+http://localhost/Resource/Location/id00000882900,http://www.w3.org/2002/07/owl#sameAs,http://linkedgeodata.org/triplify/node303079568
+http://localhost/Resource/Location/id00000147610,http://localhost/Ontology/Location.owl#ZipCode,00000147610
+http://localhost/Resource/Location/id00000142348,http://localhost/Ontology/Location.owl#full,"Jaipur, India"
+http://localhost/Resource/Location/id00000459663,http://www.w3.org/2002/07/owl#sameAs,http://linkedgeodata.org/triplify/node1964024178
+http://localhost/Resource/Location/id37830199999,http://localhost/Ontology/Location.owl#full,"Oak Ridge, Tennessee"
+http://localhost/Resource/Location/id53701199999,http://localhost/Ontology/Location.owl#country," Wisconsin"
+http://localhost/Resource/Location/id00000114431,http://localhost/Ontology/Location.owl#latitude,44.099998
+http://localhost/Resource/Location/id02914199999,http://localhost/Ontology/Location.owl#full,"East Providence, Rhode Island"
+http://localhost/Resource/Location/id95361199999,http://localhost/Ontology/Location.owl#longitude,-120.793678
+http://localhost/Resource/Location/id00000108330,http://www.w3.org/2002/07/owl#sameAs,http://linkedgeodata.org/triplify/node2139566960

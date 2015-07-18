@@ -1,0 +1,83 @@
+<rdf:RDF
+
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+
+    xmlns:Prec="http://localhost/Ontology/Precipitation.owl#"
+
+	xmlns:Wea="http://localhost/Ontology/Weather.owl#"
+
+	xmlns:Temp="http://localhost/Ontology/Temperature.owl#"
+
+	xmlns:Wind="http://localhost/Ontology/Wind.owl#"
+
+	xmlns:Loc="http://localhost/Ontology/Location.owl#"
+
+	xmlns:Time="http://localhost/Ontology/Time.owl#"
+
+	xmlns:Yester="http://localhost/Ontology/Yesterday.owl#"
+	
+	xmlns:Astro="http://localhost/Ontology/Astronomy.owl#"
+	> 
+
+  <rdf:Description rdf:about="http://localhost/Resource/Observation/id00000142348">
+<Loc:full></Loc:full>
+<Loc:city>http://localhost/Resource/Location/id00000142348</Loc:city>
+<Loc:ZipCode>00000142348</Loc:ZipCode>
+<Time:Hour>13</Time:Hour>
+<Time:Minute>58</Time:Minute>
+<Time:Day>14</Time:Day>
+<Time:Month>7</Time:Month>
+<Time:Year>2015</Time:Year>
+<Loc:Elevation>N/A</Loc:Elevation>
+<Loc:latitude>N/A</Loc:latitude>
+<Loc:longitude>N/A</Loc:longitude>
+<Temp:temperature_string>N/A</Temp:temperature_string>
+<Temp:temp_f>N/A</Temp:temp_f>
+<Temp:temp_c>N/A</Temp:temp_c>
+<Temp:high>N/A</Temp:high>
+<Temp:low>N/A</Temp:low>
+<Temp:heat_index>N/A</Temp:heat_index>
+<Temp:heat_index_f>N/A</Temp:heat_index_f>
+<Temp:heat_index_c>N/A</Temp:heat_index_c>
+<Temp:windchill>N/A</Temp:windchill>
+<Temp:windchill_f>N/A</Temp:windchill_f>
+<Temp:windchill_c>N/A</Temp:windchill_c>
+<Temp:dewpoint>N/A</Temp:dewpoint>
+<Temp:dewpoint_f>N/A</Temp:dewpoint_f>
+<Temp:dewpoint_c>N/A</Temp:dewpoint_c>
+<Temp:feelslike>N/A</Temp:feelslike>
+<Temp:feelslike_c>N/A</Temp:feelslike_c>
+<Wind:wind_degrees>N/A</Wind:wind_degrees>
+<Wind:wind_dir>N/A</Wind:wind_dir>
+<Wind:wind_mph>N/A</Wind:wind_mph>
+<Wind:wind_kph>N/A</Wind:wind_kph>
+<Wind:wind_gust_mph>N/A</Wind:wind_gust_mph>
+<Wind:wind_gust_kph>N/A</Wind:wind_gust_kph>
+<Wind:pressure_mb>N/A</Wind:pressure_mb>
+<Wind:pressure_in>N/A</Wind:pressure_in>
+<Wind:pressure_trend>N/A</Wind:pressure_trend>
+<Wind:relative_humidity>N/A</Wind:relative_humidity>
+<Prec:prob_of_precip>N/A</Prec:prob_of_precip>
+<Prec:rainfall>N/A</Prec:rainfall>
+<Prec:snow_depth>N/A</Prec:snow_depth>
+<Prec:precip_today_metric></Prec:precip_today_metric>
+<Prec:precip_today_in>N/A</Prec:precip_today_in>
+<Prec:precip_1hr_in>N/A</Prec:precip_1hr_in>
+<Prec:precip_1hr_metric>N/A</Prec:precip_1hr_metric>
+<Wea:visibility_km>N/A</Wea:visibility_km>
+<Wea:visibility_mi>N/A</Wea:visibility_mi>
+<Wea:icon>N/A</Wea:icon>
+<Wea:icon_url>N/A</Wea:icon_url>
+<Yester:temp>N/A</Yester:temp>
+<Yester:max>N/A</Yester:max>
+<Yester:min>N/A</Yester:min>
+<Yester:rain>N/A</Yester:rain>
+<Astro:sunrise_hour>N/A</Astro:sunrise_hour>
+<Astro:sunrise_minute>N/A</Astro:sunrise_minute>
+<Astro:sunset_hour>N/A</Astro:sunset_hour>
+<Astro:sunset_minute>N/A</Astro:sunset_minute>
+<Astro:moon_phase>N/A</Astro:moon_phase>
+<Astro:visible>N/A</Astro:visible>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id48823199999">
+    <j.0:full>East Lansing, Michigan</j.0:full>
+    <j.0:city>East Lansing</j.0:city>
+    <j.0:country> Michigan</j.0:country>
+    <j.0:longitude>-84.472832</j.0:longitude>
+    <j.0:latitude>42.744102</j.0:latitude>
+    <j.0:ZipCode>48823199999</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node158267869</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/East_Lansing</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

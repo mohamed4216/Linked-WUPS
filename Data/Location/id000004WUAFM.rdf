@@ -1,0 +1,14 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id000004WUAFM">
+    <j.0:full>UAFM, Kyrgyzstan</j.0:full>
+    <j.0:city>UAFM</j.0:city>
+    <j.0:country> Kyrgyzstan</j.0:country>
+    <j.0:longitude>74.478333</j.0:longitude>
+    <j.0:latitude>43.061668</j.0:latitude>
+    <j.0:ZipCode>000004WUAFM</j.0:ZipCode>
+    <owl:sameAs>http://de.dbpedia.org/resource/UAFM</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

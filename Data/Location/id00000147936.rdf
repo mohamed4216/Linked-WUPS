@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id00000147936">
+    <j.0:full>Naha, Japan</j.0:full>
+    <j.0:city>Naha</j.0:city>
+    <j.0:country> Japan</j.0:country>
+    <j.0:longitude>127.68</j.0:longitude>
+    <j.0:latitude>26.200001</j.0:latitude>
+    <j.0:ZipCode>00000147936</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node1401883786</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Naha</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

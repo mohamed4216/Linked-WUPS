@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id000001203453">
+    <j.0:full>Oakham, United Kingdom</j.0:full>
+    <j.0:city>Oakham</j.0:city>
+    <j.0:country> United Kingdom</j.0:country>
+    <j.0:longitude>-0.733333</j.0:longitude>
+    <j.0:latitude>52.666668</j.0:latitude>
+    <j.0:ZipCode>000001203453</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node158864998</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Oakham</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

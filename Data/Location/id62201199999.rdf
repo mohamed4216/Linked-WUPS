@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id62201199999">
+    <j.0:full>East Saint Louis Public Library, Illinois</j.0:full>
+    <j.0:city>East Saint Louis Public Library</j.0:city>
+    <j.0:country> Illinois</j.0:country>
+    <j.0:longitude>-90.122459</j.0:longitude>
+    <j.0:latitude>38.627796</j.0:latitude>
+    <j.0:ZipCode>62201199999</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node368067902</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Saint-Louis</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

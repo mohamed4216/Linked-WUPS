@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id02914199999">
+    <j.0:full>East Providence, Rhode Island</j.0:full>
+    <j.0:city>East Providence</j.0:city>
+    <j.0:country> Rhode Island</j.0:country>
+    <j.0:longitude>-71.372086</j.0:longitude>
+    <j.0:latitude>41.813351</j.0:latitude>
+    <j.0:ZipCode>02914199999</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node158855884</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/East_Providence</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

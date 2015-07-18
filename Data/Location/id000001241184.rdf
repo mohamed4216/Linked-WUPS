@@ -1,0 +1,12 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id000001241184">
+    <j.0:full>Ra's al Khaymah, United Arab Emirates</j.0:full>
+    <j.0:city>Ra's al Khaymah</j.0:city>
+    <j.0:country> United Arab Emirates</j.0:country>
+    <j.0:longitude>55.94278</j.0:longitude>
+    <j.0:latitude>25.791111</j.0:latitude>
+    <j.0:ZipCode>000001241184</j.0:ZipCode>
+  </rdf:Description>
+</rdf:RDF>

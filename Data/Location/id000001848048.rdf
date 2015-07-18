@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id000001848048">
+    <j.0:full>Pakokku, Burma/Myanmar</j.0:full>
+    <j.0:city>Pakokku</j.0:city>
+    <j.0:country> Burma/Myanmar</j.0:country>
+    <j.0:longitude>95.099998</j.0:longitude>
+    <j.0:latitude>21.333334</j.0:latitude>
+    <j.0:ZipCode>000001848048</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node26576197</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Pakokku</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

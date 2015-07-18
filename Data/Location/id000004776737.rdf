@@ -1,0 +1,14 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id000004776737">
+    <j.0:full>Xaltepec, Mexico</j.0:full>
+    <j.0:city>Xaltepec</j.0:city>
+    <j.0:country> Mexico</j.0:country>
+    <j.0:longitude>-97.599998</j.0:longitude>
+    <j.0:latitude>18.866667</j.0:latitude>
+    <j.0:ZipCode>000004776737</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node448082056</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

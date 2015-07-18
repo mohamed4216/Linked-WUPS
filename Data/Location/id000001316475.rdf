@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id000001316475">
+    <j.0:full>Ragusa, Italy</j.0:full>
+    <j.0:city>Ragusa</j.0:city>
+    <j.0:country> Italy</j.0:country>
+    <j.0:longitude>14.717187</j.0:longitude>
+    <j.0:latitude>36.928242</j.0:latitude>
+    <j.0:ZipCode>000001316475</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node683848006</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Ragusa</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

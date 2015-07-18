@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id00000571727">
+    <j.0:full>Saguenay, Canada</j.0:full>
+    <j.0:city>Saguenay</j.0:city>
+    <j.0:country> Canada</j.0:country>
+    <j.0:longitude>-71.065727</j.0:longitude>
+    <j.0:latitude>48.416752</j.0:latitude>
+    <j.0:ZipCode>00000571727</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node276289844</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Saguenay_(Québec)</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

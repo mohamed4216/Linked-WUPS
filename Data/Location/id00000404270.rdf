@@ -1,0 +1,14 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id00000404270">
+    <j.0:full>El Uak, Greenland</j.0:full>
+    <j.0:city>El Uak</j.0:city>
+    <j.0:country> Greenland</j.0:country>
+    <j.0:longitude>-45.423889</j.0:longitude>
+    <j.0:latitude>61.159443</j.0:latitude>
+    <j.0:ZipCode>00000404270</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node1150897405</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

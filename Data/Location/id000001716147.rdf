@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id000001716147">
+    <j.0:full>Faenza, Italy</j.0:full>
+    <j.0:city>Faenza</j.0:city>
+    <j.0:country> Italy</j.0:country>
+    <j.0:longitude>11.875227</j.0:longitude>
+    <j.0:latitude>44.291466</j.0:latitude>
+    <j.0:ZipCode>000001716147</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node1780340377</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Faenza</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

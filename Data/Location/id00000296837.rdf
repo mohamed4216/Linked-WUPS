@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id00000296837">
+    <j.0:full>Bae, Indonesia</j.0:full>
+    <j.0:city>Bae</j.0:city>
+    <j.0:country> Indonesia</j.0:country>
+    <j.0:longitude>110.866669</j.0:longitude>
+    <j.0:latitude>-6.766667</j.0:latitude>
+    <j.0:ZipCode>00000296837</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node1308637447</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/BAE</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

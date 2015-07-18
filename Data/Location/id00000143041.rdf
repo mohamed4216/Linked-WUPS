@@ -1,0 +1,15 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://localhost/Ontology/Location.owl#" > 
+  <rdf:Description rdf:about="http://localhost/Resource/Location/id00000143041">
+    <j.0:full>Jagdalpur, India</j.0:full>
+    <j.0:city>Jagdalpur</j.0:city>
+    <j.0:country> India</j.0:country>
+    <j.0:longitude>82.029999</j.0:longitude>
+    <j.0:latitude>19.08</j.0:latitude>
+    <j.0:ZipCode>00000143041</j.0:ZipCode>
+    <owl:sameAs>http://linkedgeodata.org/triplify/node571101442</owl:sameAs>
+    <owl:sameAs>http://de.dbpedia.org/resource/Jagdalpur</owl:sameAs>
+  </rdf:Description>
+</rdf:RDF>

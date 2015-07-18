@@ -1,0 +1,23 @@
+<rdf:RDF
+
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+
+    xmlns:Prec="http://localhost/Ontology/Precipitation.owl#"
+
+	xmlns:Temp="http://localhost/Ontology/Temperature.owl#"
+
+	xmlns:Loc="http://localhost/Ontology/Location.owl#"
+	
+	xmlns:Wind="http://localhost/Ontology/Wind.owl#"
+
+	> 
+
+  <rdf:Description rdf:about="http://localhost/History/id000001124853">
+<Loc:ZipCode>00000112485</Loc:ZipCode>
+<Loc:UniCode>0000011248520150706</Loc:UniCode>
+<Temp:temp_c>N/A</Temp:temp_c>
+<Prec:precip_today_metric>N/A</Prec:precip_today_metric>
+<Wind:relative_humidity>N/A</Wind:relative_humidity>
+</rdf:Description></rdf:RDF>
